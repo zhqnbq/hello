@@ -21,7 +21,7 @@ int s;
 int min,sec;
 char testP;
 int f,c;
-int main(){
+signed main(){
 	int n;
 	cin>>n;
 	for(int i=1;i<=n;i++){
@@ -29,4 +29,5 @@ int main(){
 		
 		
 	}
+	return 0;
 } 
